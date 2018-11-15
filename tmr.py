@@ -1,2 +1,2 @@
-print ("calla reconchatumadre")
+print ("corregido")
 print ("lubec,kkk")
